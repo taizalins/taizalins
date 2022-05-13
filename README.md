@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Tai-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
    <img align="center" alt="Tai-Adobe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-  <img align="center" alt="Tai-Power BI" height="30" width="40" src="https://img.icons8.com/wired/64/000000/power-bi.png"/>           
+  <img align="center" alt="Tai-Power BI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>          
   <img align="center" alt="Tai-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Tai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt= "Tai-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />      
